@@ -1,4 +1,4 @@
-package com.kdanwoo;
+package com.kdanwoo.chapter3;
 
 import com.kdanwoo.util.Adder;
 import java.util.function.Function;
